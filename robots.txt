@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boduwasu.github.io/sitemap.xml
